@@ -1,8 +1,13 @@
-# B1 A2 - Release Pokémon
+# B1 A2 - Reverse Array
 
-Make an array of **15** diferent pokémon and show the following options:
+Fill an array of **10** natural random numbers (1 - 9) included.
 
-1. (Option **1**) List the pokémon inside the array
-   - Ask the user wich pokémon wants to release, when released the position of that pokémon shoud said **'empty'**.
-   - If the user tries to release a pokémon already released, inform that there is no pokémon to release.
-1. (Option **0**) Exit the program.
+Show the original array and then show it in reverse order.
+
+```cs
+// Output
+// Example: 1 4 2 9 5 3 5 3 7 7
+
+// Reverse output
+// Example: 7 7 3 5 3 5 9 2 4 1
+```
